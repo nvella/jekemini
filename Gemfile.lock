@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (2.2.1)
+      rexml
+    pandoc-ruby (2.1.4)
+    rexml (3.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kramdown (~> 2.2)
+  pandoc-ruby
+
+BUNDLED WITH
+   2.1.4
